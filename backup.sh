@@ -1,4 +1,3 @@
-  GNU nano 5.4                                                               backup.sh                                                                        
 #!/bin/bash
 
 #déclaration variable generiques
